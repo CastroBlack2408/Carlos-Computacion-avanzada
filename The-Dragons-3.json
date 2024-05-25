@@ -1,0 +1,18 @@
+[{"Codigo": "MAT31016", "Nombre de la Materia": "Microondas", "UC": 6},
+ {"Codigo": "QUF2023", "Nombre de la Materia": "Redes 1", "UC": 2},
+ {"Codigo": "MAT1214", "Nombre de la Materia": "Electronica 1", "UC": 2},
+ {"Codigo": "QUF1525", "Nombre de la Materia": " Computacion", "UC": 2},
+ {"Codigo": "MAT1624", "Nombre de la Materia": " Programcion", "UC": 2},
+ {"Codigo": "MAT1718", "Nombre de la Materia": " Sistemas", "UC": 2},
+ {"Codigo": "MAT1912", "Nombre de la Materia": " Digitales", "UC": 2},
+ {"Codigo": "MAT2223", "Nombre de la Materia": " Señales", "UC": 2},
+ {"Codigo": "MAT1514", "Nombre de la Materia": " Proyecto", "UC": 2},
+ {"Codigo": "MAT1818", "Nombre de la Materia": " Comunitario", "UC": 4},
+ {"Codigo": "MAT1313", "Nombre de la Materia": " Electiva", "UC": 4},
+ {"Codigo": "MAT4441", "Nombre de la Materia": " Deporte", "UC": 4},
+ {"Codigo": "MAT2021", "Nombre de la Materia": " Danza", "UC": 4},
+ {"Codigo": "QUF1515", "Nombre de la Materia": " Cultura", "UC": 4},
+ {"Codigo": "TED3132", "Nombre de la Materia": " Mantenimiento", "UC": 4},
+ {"Codigo": "CAR4144", "Nombre de la Materia": " Gerencia", "UC": 4},
+ {"Codigo": "MAT6561", "Nombre de la Materia": " Ingles", "UC": 4}
+]

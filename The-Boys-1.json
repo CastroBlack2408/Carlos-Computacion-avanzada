@@ -1,0 +1,102 @@
+[
+    {
+        "dni": "27502418",
+        "Codigo": "QUF2023",
+        "nota": 20,
+        "Periodo": "1-2017"
+    },
+    {
+        "dni": "30550318",
+        "Codigo": "MAT2124",
+        "nota": 12,
+        "Periodo": "1-2023"
+    },
+    {
+        "dni": "30550318",
+        "Codigo": "MAT1214",
+        "nota": 10,
+        "Periodo": "1-2024"
+    },
+    {
+        "dni": "30213555",
+        "Codigo": "QUF1525",
+        "nota": 12,
+        "Periodo": "1-2022"
+    },
+    {
+        "dni": "30213555",
+        "Codigo": "MAT1624",
+        "nota": 10,
+        "Periodo": "1-2021"
+    },
+    {
+        "dni": "27502418",
+        "Codigo": "MAT1718",
+        "nota": 17,
+        "Periodo": "1-2021"
+    },
+    {
+        "dni": "27061404",
+        "Codigo": "MAT1912",
+        "nota": 14,
+        "Periodo": "1-2022"
+    },
+    {
+        "dni": "27061404",
+        "Codigo": "MAT2223",
+        "nota": 20,
+        "Periodo": "1-2000"
+    },
+    {
+        "dni": "28589939",
+        "Codigo": "MAT1514",
+        "nota": 18,
+        "Periodo": "2-2012"
+    },
+    {
+        "dni": "28380228",
+        "Codigo": "MAT1818",
+        "nota": 20,
+        "Periodo": "2-2024"
+    },
+    {
+        "dni": "30522115",
+        "Codigo": "MAT1313",
+        "nota": 19,
+        "Periodo": "1-2012"
+    },
+    {
+        "dni": "30522115",
+        "Codigo": "MAT4441",
+        "nota": 19,
+        "Periodo": "1-2021"
+    },
+    {
+        "dni": "17248513",
+        "Codigo": "MAT2021",
+        "nota": 18,
+        "Periodo": "1-2021"
+    },
+    {
+        "dni": "17248513",
+        "Codigo": "QUF1515",
+        "nota": 18,
+        "Periodo": "2-2022"
+    },
+    {
+        "dni": "28380228",
+        "Codigo": "TED3132",
+        "nota": 12.1
+    },
+    {
+        "dni": "28589939",
+        "Codigo": "CAR4144",
+        "nota": 12.2
+    },
+    {
+        "dni": "17248513",
+        "Codigo": "MAT6561",
+        "nota": 18.0,
+        "Periodo": "2-2022"
+    }
+]
